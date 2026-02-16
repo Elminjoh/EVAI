@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact — ElmiViseAI</title>
+    <meta name="description" content="Get in touch with ElmiViseAI. Whether you need a chatbot, custom software, or just have a question — we'd love to hear from you.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+    <!-- ==================== Navigation ==================== -->
+    <nav class="navbar scrolled" id="navbar">
+        <div class="container">
+            <a href="index.html" class="nav-brand">
+                <div class="brand-icon">E</div>
+                ElmiViseAI
+            </a>
+            <div class="nav-links" id="navLinks">
+                <a href="index.html">Home</a>
+                <a href="about.html">About</a>
+                <a href="services.html">Services</a>
+                <a href="pricing.html">Pricing</a>
+                <a href="contact.html" class="active">Contact</a>
+                <a href="pricing.html" class="nav-cta">Get Started</a>
+            </div>
+            <div class="nav-toggle" id="navToggle" onclick="toggleMobileMenu()">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- ==================== Hero ==================== -->
+    <section class="page-hero bg-gradient">
+        <div class="container">
+            <h1>Get in Touch</h1>
+            <p>Have a question, a project idea, or just want to learn more? We'd love to hear from you.</p>
+        </div>
+    </section>
+
+    <!-- ==================== Contact Form Section ==================== -->
+    <section class="section">
+        <div class="container">
+            <div class="contact-grid">
+
+                <!-- Contact Info -->
+                <div class="reveal">
+                    <h3 style="margin-bottom: 0.5rem;">Let's Start a Conversation</h3>
+                    <p style="margin-bottom: 2rem; font-size: 1.05rem;">Whether you're looking for our chatbot platform or a fully custom solution, we'll get back to you within 24 hours.</p>
+
+                    <div class="contact-info-card">
+                        <div class="contact-info-icon">📧</div>
+                        <div class="contact-info-text">
+                            <h4>Email</h4>
+                            <p>hello@elmiviseai.com</p>
+                        </div>
+                    </div>
+
+                    <div class="contact-info-card">
+                        <div class="contact-info-icon">📞</div>
+                        <div class="contact-info-text">
+                            <h4>Phone</h4>
+                            <p>Available upon request</p>
+                        </div>
+                    </div>
+
+                    <div class="contact-info-card">
+                        <div class="contact-info-icon">📍</div>
+                        <div class="contact-info-text">
+                            <h4>Location</h4>
+                            <p>United Kingdom (Remote-First)</p>
+                        </div>
+                    </div>
+
+                    <div class="contact-info-card">
+                        <div class="contact-info-icon">⏰</div>
+                        <div class="contact-info-text">
+                            <h4>Response Time</h4>
+                            <p>Within 24 hours on business days</p>
+                        </div>
+                    </div>
+
+                    <div style="margin-top: 2rem; padding: 1.5rem; background: var(--primary-50); border-radius: var(--radius); border-left: 4px solid var(--primary);">
+                        <h4 style="margin-bottom: 0.25rem; color: var(--primary-darker);">💡 Quick Tip</h4>
+                        <p style="font-size: 0.9rem; color: var(--gray-600);">For the fastest response, include your business type, what problem you're trying to solve, and any timeline requirements in your message.</p>
+                    </div>
+                </div>
+
+                <!-- Form -->
+                <div class="contact-form reveal">
+                    <form id="contactForm" onsubmit="handleContactSubmit(event)">
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="firstName">First Name *</label>
+                                <input type="text" id="firstName" name="firstName" required placeholder="John">
+                            </div>
+                            <div class="form-group">
+                                <label for="lastName">Last Name *</label>
+                                <input type="text" id="lastName" name="lastName" required placeholder="Smith">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="email">Email Address *</label>
+                            <input type="email" id="email" name="email" required placeholder="john@example.com">
+                        </div>
+                        <div class="form-group">
+                            <label for="company">Company / Business Name</label>
+                            <input type="text" id="company" name="company" placeholder="Acme Ltd">
+                        </div>
+                        <div class="form-group">
+                            <label for="interest">I'm Interested In</label>
+                            <select id="interest" name="interest">
+                                <option value="">Select an option</option>
+                                <option value="chatbot">AI Chatbot Platform</option>
+                                <option value="booking">Automated Booking System</option>
+                                <option value="custom">Custom Software Development</option>
+                                <option value="consulting">AI & Automation Consulting</option>
+                                <option value="enterprise">Enterprise / Partnership</option>
+                                <option value="other">Other / General Enquiry</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="budget">Estimated Budget</label>
+                            <select id="budget" name="budget">
+                                <option value="">Prefer not to say</option>
+                                <option value="<1000">Under £1,000</option>
+                                <option value="1000-5000">£1,000 — £5,000</option>
+                                <option value="5000-15000">£5,000 — £15,000</option>
+                                <option value="15000+">£15,000+</option>
+                                <option value="subscription">Monthly subscription (SaaS)</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="message">Your Message *</label>
+                            <textarea id="message" name="message" required placeholder="Tell us about your business and what you're looking for..."></textarea>
+                        </div>
+                        <button type="submit" class="btn btn-primary btn-lg" style="width: 100%;" id="submitBtn">Send Message</button>
+                        <p style="font-size: 0.8rem; color: var(--gray-500); margin-top: 0.75rem; text-align: center;">
+                            We'll respond within 24 hours. No spam, ever.
+                        </p>
+                    </form>
+
+                    <!-- Success State -->
+                    <div id="formSuccess" style="display: none; text-align: center; padding: 3rem 1rem;">
+                        <div style="font-size: 3rem; margin-bottom: 1rem;">✅</div>
+                        <h3 style="margin-bottom: 0.5rem;">Message Sent!</h3>
+                        <p>Thank you for reaching out. We'll get back to you within 24 hours.</p>
+                        <button class="btn btn-primary" style="margin-top: 1.5rem;" onclick="resetContactForm()">Send Another Message</button>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- ==================== Map / Office placeholder ==================== -->
+    <section class="section bg-light">
+        <div class="container" style="text-align: center;">
+            <div class="section-header reveal">
+                <span class="badge">Availability</span>
+                <h2>We Work with Clients Worldwide</h2>
+                <p>Based in the UK and operating as a remote-first company, we collaborate with businesses across all time zones. Meetings are scheduled flexibly to suit your schedule.</p>
+            </div>
+            <div class="features-grid" style="max-width: 800px; margin: 0 auto;">
+                <div class="feature-card reveal">
+                    <div class="feature-icon teal">🇬🇧</div>
+                    <h4>UK Headquarters</h4>
+                    <p>Based in the United Kingdom with a focus on British businesses and the European market.</p>
+                </div>
+                <div class="feature-card reveal">
+                    <div class="feature-icon orange">🌍</div>
+                    <h4>Global Reach</h4>
+                    <p>We serve clients internationally. Timezone differences are never a barrier to great collaboration.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ==================== CTA ==================== -->
+    <section class="cta-section bg-gradient">
+        <div class="container">
+            <h2>Prefer a Quick Chat?</h2>
+            <p>Try our AI chatbot below — it knows about our services and can help answer your questions right now.</p>
+            <div class="cta-actions">
+                <a href="pricing.html" class="btn btn-accent btn-lg">View Pricing</a>
+                <a href="services.html" class="btn btn-white btn-lg">Our Services</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- ==================== Footer ==================== -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-brand">
+                    <h3>ElmiViseAI</h3>
+                    <p>Building intelligent AI solutions that help businesses automate, engage customers, and scale.</p>
+                </div>
+                <div class="footer-col">
+                    <h4>Product</h4>
+                    <a href="services.html">AI Chatbot</a>
+                    <a href="services.html">Booking System</a>
+                    <a href="pricing.html">Pricing</a>
+                    <a href="services.html">Custom Software</a>
+                </div>
+                <div class="footer-col">
+                    <h4>Company</h4>
+                    <a href="about.html">About Us</a>
+                    <a href="contact.html">Contact</a>
+                    <a href="#">Careers</a>
+                    <a href="#">Blog</a>
+                </div>
+                <div class="footer-col">
+                    <h4>Support</h4>
+                    <a href="contact.html">Help Centre</a>
+                    <a href="#">Documentation</a>
+                    <a href="#">Privacy Policy</a>
+                    <a href="#">Terms of Service</a>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 ElmiViseAI. All rights reserved.</p>
+                <div class="footer-social">
+                    <a href="#" title="LinkedIn">in</a>
+                    <a href="#" title="Twitter/X">𝕏</a>
+                    <a href="#" title="GitHub">GH</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- ==================== Chatbot Widget ==================== -->
+    <!-- TODO: Replace YOUR_API_DOMAIN and YOUR_BUSINESS_ID with real values -->
+    <!--
+    <script>
+      (function() {
+        const w = document.createElement('script');
+        w.src = 'https://YOUR_API_DOMAIN/widget.html';
+        w.dataset.businessId = 'YOUR_BUSINESS_ID';
+        document.body.appendChild(w);
+      })();
+    </script>
+    -->
+
+    <script src="js/main.js"></script>
+</body>
+</html>
