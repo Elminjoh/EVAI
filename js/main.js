@@ -1,5 +1,22 @@
 /* ==================== ElmiViseAI — Main JavaScript ==================== */
 
+// ==================== Theme Toggle (Dark/Light Mode) ====================
+(function() {
+    const saved = localStorage.getItem('theme');
+    if (saved) {
+        document.documentElement.setAttribute('data-theme', saved);
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.documentElement.setAttribute('data-theme', 'dark');
+    }
+})();
+
+function toggleTheme() {
+    const current = document.documentElement.getAttribute('data-theme');
+    const next = current === 'dark' ? 'light' : 'dark';
+    document.documentElement.setAttribute('data-theme', next);
+    localStorage.setItem('theme', next);
+}
+
 // ==================== Navbar Scroll Effect ====================
 (function() {
     const navbar = document.getElementById('navbar');

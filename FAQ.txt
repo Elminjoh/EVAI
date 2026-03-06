@@ -1,0 +1,274 @@
+ElmiViseAI — Frequently Asked Questions (FAQ)
+================================================
+
+A comprehensive guide to common questions customers may have about ElmiViseAI and our services.
+
+
+================================================================================
+GENERAL QUESTIONS
+================================================================================
+
+What is ElmiViseAI?
+-------------------
+ElmiViseAI is a UK-based technology company that builds AI-powered solutions for businesses. We specialise in intelligent chatbots, automated booking systems, voice agents, and custom web development — helping businesses automate customer interactions, save time, and scale efficiently.
+
+
+Who is ElmiViseAI for?
+----------------------
+Our solutions are designed for small and medium businesses across all industries — particularly those that struggle with missed calls, unanswered website queries, and manual booking processes. Whether you run a salon, clinic, consultancy, or any service-based business, our tools can help.
+
+
+Where is ElmiViseAI based?
+--------------------------
+We are based in the United Kingdom and operate as a remote-first company. We serve clients throughout the UK and can work with businesses internationally.
+
+
+How do I contact ElmiViseAI?
+----------------------------
+You can reach us via email at elmiviseai@gmail.com or through the contact form on our website. We typically respond within 24 hours on business days.
+
+
+================================================================================
+AI CHATBOT PLATFORM
+================================================================================
+
+What does the AI chatbot do?
+----------------------------
+Our AI chatbot handles customer conversations autonomously using GPT-powered natural language understanding. It can:
+  • Answer customer questions 24/7
+  • Handle bookings, cancellations, and rescheduling
+  • Process payments via Stripe integration
+  • Escalate to human agents when needed
+  • Work across multiple channels (website, SMS, WhatsApp, email)
+
+
+How smart is the chatbot?
+-------------------------
+The chatbot uses advanced GPT technology to understand natural language, context, and intent. It can handle complex, multi-turn conversations and learns from your business information to provide accurate, relevant responses.
+
+
+Can the chatbot take bookings?
+------------------------------
+Yes! The chatbot includes a built-in automated booking system with real-time availability. Customers can book appointments, reschedule, or cancel — all through natural conversation.
+
+
+What channels does the chatbot work on?
+---------------------------------------
+The chatbot supports multiple channels:
+  • Website widget (white-label with your branding)
+  • SMS
+  • WhatsApp
+  • Email
+
+
+Can I customise the chatbot's appearance?
+-----------------------------------------
+Absolutely. We provide a white-label widget that you can customise with your own branding, colours, and styling to match your website.
+
+
+Does the chatbot integrate with payment systems?
+------------------------------------------------
+Yes, the platform includes Stripe payment integration, allowing customers to pay for services directly through the chatbot.
+
+
+Is there an analytics dashboard?
+--------------------------------
+Yes. You get a full analytics dashboard that tracks:
+  • All conversations
+  • Booking metrics
+  • Revenue tracking
+  • Customer insights
+  • Performance reports
+
+
+What happens if the chatbot can't answer a question?
+----------------------------------------------------
+The chatbot has smart escalation built in. When it encounters a question it can't confidently answer, it can escalate to a human agent or collect the customer's details for follow-up.
+
+
+================================================================================
+PRICING & BILLING
+================================================================================
+
+How much does the chatbot cost?
+-------------------------------
+The AI Chatbot Platform is £149 per month — one simple price with everything included:
+  • Unlimited conversations
+  • Automated booking system
+  • Multi-channel support
+  • Full analytics dashboard
+  • Stripe payment integration
+  • Custom branding
+  • Priority support
+
+
+Is there a free trial?
+----------------------
+Yes! You get a 14-day free trial with full access to all features — no credit card required. At the end of your trial, you can subscribe to continue or your account will be paused.
+
+
+Are there any setup fees?
+-------------------------
+No. There are no hidden fees or setup costs. The monthly price includes everything.
+
+
+Can I cancel my subscription?
+-----------------------------
+Yes, you can cancel at any time with no penalties. Cancellation takes effect at the end of your current billing cycle.
+
+
+Are there any contracts or long-term commitments?
+-------------------------------------------------
+No. We operate on a month-to-month basis with no long-term contracts required.
+
+
+How does billing work?
+----------------------
+Billing is monthly, charged automatically to your payment method on file. You'll receive an invoice for each payment.
+
+
+================================================================================
+SETUP & TECHNICAL
+================================================================================
+
+Do I need technical skills to set up the chatbot?
+-------------------------------------------------
+Not at all. Our onboarding wizard guides you step by step. To add the chatbot to your website, you simply paste one line of code. If you need help, our support team is always available.
+
+
+How long does setup take?
+-------------------------
+Most businesses can have their chatbot up and running within a few hours. The exact time depends on how much customisation you want and how quickly you can provide your business information.
+
+
+Will the chatbot work on my website?
+------------------------------------
+Yes. The chatbot widget works on any website platform — WordPress, Shopify, Squarespace, Wix, custom-built sites, and more. You just need to paste a small snippet of code.
+
+
+Can I integrate the chatbot with other tools?
+---------------------------------------------
+Yes. The platform supports custom webhook integrations and can connect with your existing systems. If you need specific integrations, contact us to discuss your requirements.
+
+
+Is my data secure?
+------------------
+We take data security seriously. All data is encrypted, and we follow industry best practices to protect your information and your customers' data.
+
+
+================================================================================
+AI VOICE AGENTS
+================================================================================
+
+What are AI Voice Agents?
+-------------------------
+AI Voice Agents are intelligent phone systems that handle inbound and outbound calls for your business with natural, human-like conversations. They can handle appointment reminders, customer support, follow-ups, and more.
+
+
+Are Voice Agents available now?
+-------------------------------
+AI Voice Agents are currently under development. When the service launches, we will announce pricing and features.
+
+
+How can I be notified when Voice Agents launch?
+-----------------------------------------------
+You can join the waitlist through our contact page or by emailing us directly. We'll notify you as soon as the service is available.
+
+
+Will Voice Agents integrate with the chatbot?
+---------------------------------------------
+Yes. When launched, Voice Agents will seamlessly integrate with your chatbot and booking system, creating a unified customer communication platform.
+
+
+================================================================================
+WEB DEVELOPMENT
+================================================================================
+
+Do you offer web development services?
+--------------------------------------
+Yes. We offer custom website design and development, including:
+  • Custom website design
+  • Responsive, mobile-first builds
+  • E-commerce integrations
+  • API development
+  • SEO optimisation
+
+
+How much does web development cost?
+-----------------------------------
+Web development projects are quoted individually based on scope and complexity. We provide fixed pricing with no hourly billing surprises.
+
+
+How does the web development process work?
+------------------------------------------
+1. Discovery call — We discuss your requirements (free, no obligation)
+2. Proposal — We provide a detailed proposal with scope and fixed pricing
+3. Development — We build your project with regular updates
+4. Delivery — We launch and provide any necessary training
+
+
+Do you offer ongoing website maintenance?
+-----------------------------------------
+Yes, we can discuss ongoing maintenance and support packages based on your needs.
+
+
+================================================================================
+SUPPORT
+================================================================================
+
+What support is included?
+-------------------------
+All chatbot platform subscribers receive priority support as part of their subscription. This includes help with setup, troubleshooting, and general questions.
+
+
+How quickly do you respond to support requests?
+-----------------------------------------------
+We aim to respond to all enquiries within 24 hours on business days. Priority support subscribers typically receive faster responses.
+
+
+Do you offer training or onboarding help?
+-----------------------------------------
+Yes. Our platform includes a guided onboarding wizard, and our support team is available to help with any questions during setup. For web development projects, we provide training on how to manage your new site.
+
+
+What if I have a problem outside business hours?
+------------------------------------------------
+Our AI chatbot platform operates 24/7, so your customer-facing systems remain online. For support enquiries, we'll respond as soon as possible on the next business day.
+
+
+================================================================================
+GETTING STARTED
+================================================================================
+
+How do I get started with the chatbot?
+--------------------------------------
+1. Visit our website and click "Start Free Trial"
+2. Create your account (no credit card required)
+3. Follow the onboarding wizard to set up your chatbot
+4. Paste the widget code on your website
+5. Start engaging customers!
+
+
+How do I request a web development quote?
+-----------------------------------------
+Contact us via email at elmiviseai@gmail.com or use the contact form on our website. Include details about your project, and we'll schedule a free discovery call.
+
+
+Can I see a demo before signing up?
+-----------------------------------
+Yes! You can try the chatbot on our website to see it in action, or contact us to arrange a personalised demo for your business.
+
+
+================================================================================
+STILL HAVE QUESTIONS?
+================================================================================
+
+If you couldn't find the answer you were looking for, we're here to help:
+
+  Email:          elmiviseai@gmail.com
+  Website:        elmiviseai.com
+  Response Time:  Within 24 hours on business days
+
+
+================================================================================
+Last updated: March 2026
