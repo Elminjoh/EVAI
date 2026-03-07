@@ -1,31 +1,31 @@
-ElmiViseAI — Frequently Asked Questions (FAQ)
+ElmiViceAI — Frequently Asked Questions (FAQ)
 ================================================
 
-A comprehensive guide to common questions customers may have about ElmiViseAI and our services.
+A comprehensive guide to common questions customers may have about ElmiViceAI and our services.
 
 
 ================================================================================
 GENERAL QUESTIONS
 ================================================================================
 
-What is ElmiViseAI?
+What is ElmiViceAI?
 -------------------
-ElmiViseAI is a UK-based technology company that builds AI-powered solutions for businesses. We specialise in intelligent chatbots, automated booking systems, voice agents, and custom web development — helping businesses automate customer interactions, save time, and scale efficiently.
+ElmiViceAI is a UK-based technology company that builds AI-powered solutions for businesses. We specialise in intelligent chatbots, automated booking systems, voice agents, and custom web development — helping businesses automate customer interactions, save time, and scale efficiently.
 
 
-Who is ElmiViseAI for?
+Who is ElmiViceAI for?
 ----------------------
 Our solutions are designed for small and medium businesses across all industries — particularly those that struggle with missed calls, unanswered website queries, and manual booking processes. Whether you run a salon, clinic, consultancy, or any service-based business, our tools can help.
 
 
-Where is ElmiViseAI based?
+Where is ElmiViceAI based?
 --------------------------
 We are based in the United Kingdom and operate as a remote-first company. We serve clients throughout the UK and can work with businesses internationally.
 
 
-How do I contact ElmiViseAI?
+How do I contact ElmiViceAI?
 ----------------------------
-You can reach us via email at elmiviseai@gmail.com or through the contact form on our website. We typically respond within 24 hours on business days.
+You can reach us via email at elmiviceai@gmail.com or through the contact form on our website. We typically respond within 24 hours on business days.
 
 
 ================================================================================
@@ -251,7 +251,7 @@ How do I get started with the chatbot?
 
 How do I request a web development quote?
 -----------------------------------------
-Contact us via email at elmiviseai@gmail.com or use the contact form on our website. Include details about your project, and we'll schedule a free discovery call.
+Contact us via email at elmiviceai@gmail.com or use the contact form on our website. Include details about your project, and we'll schedule a free discovery call.
 
 
 Can I see a demo before signing up?
@@ -265,8 +265,8 @@ STILL HAVE QUESTIONS?
 
 If you couldn't find the answer you were looking for, we're here to help:
 
-  Email:          elmiviseai@gmail.com
-  Website:        elmiviseai.com
+  Email:          elmiviceai@gmail.com
+  Website:        elmiviceai.com
   Response Time:  Within 24 hours on business days
 
 

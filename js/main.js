@@ -1,4 +1,4 @@
-/* ==================== ElmiViseAI — Main JavaScript ==================== */
+/* ==================== ElmiViceAI — Main JavaScript ==================== */
 
 // ==================== Theme Toggle (Dark/Light Mode) ====================
 (function() {
@@ -193,7 +193,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 
 // ==================== Console Branding ====================
 console.log(
-    '%c ElmiViseAI %c AI-Powered Solutions for Modern Business ',
+    '%c ElmiViceAI %c AI-Powered Solutions for Modern Business ',
     'background: #0891b2; color: white; font-weight: bold; padding: 4px 8px; border-radius: 4px 0 0 4px;',
     'background: #155e75; color: white; padding: 4px 8px; border-radius: 0 4px 4px 0;'
 );
