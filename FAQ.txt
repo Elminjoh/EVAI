@@ -92,7 +92,7 @@ PRICING & BILLING
 
 How much does the chatbot cost?
 -------------------------------
-The AI Chatbot Platform is £149 per month — one simple price with everything included:
+The AI Chatbot Platform is £125 per month, plus a one-time setup fee of £250. The setup fee covers building and configuring your custom chatbot. Your monthly subscription includes everything:
   • Unlimited conversations
   • Automated booking system
   • Multi-channel support
@@ -109,7 +109,7 @@ Yes! You get a 14-day free trial with full access to all features — no credit 
 
 Are there any setup fees?
 -------------------------
-No. There are no hidden fees or setup costs. The monthly price includes everything.
+Yes. There is a one-time setup fee of £250 per client. This covers the initial configuration and build of your custom AI chatbot — including training it on your business, setting up booking rules, branding, and integrations. After that, you only pay the £125/month subscription.
 
 
 Can I cancel my subscription?
