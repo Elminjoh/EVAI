@@ -120,23 +120,43 @@ function handleContactSubmit(event) {
         return;
     }
 
-    // Simulate sending (replace with real API call later)
     btn.textContent = 'Sending...';
     btn.disabled = true;
 
-    setTimeout(() => {
-        // In production, you'd POST to an API endpoint here:
-        // fetch('https://your-api/contact', { method: 'POST', body: JSON.stringify(formData) })
-
-        console.log('Form submitted:', formData);
-
-        // Show success
-        form.style.display = 'none';
-        successDiv.style.display = 'block';
-
+    // Send via Formspree — replace YOUR_FORM_ID with your actual Formspree form ID
+    fetch('https://formspree.io/f/mwvroory', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+            'Accept': 'application/json'
+        },
+        body: JSON.stringify({
+            name: formData.firstName + ' ' + formData.lastName,
+            email: formData.email,
+            company: formData.company,
+            interest: formData.interest,
+            budget: formData.budget,
+            message: formData.message,
+            _subject: 'New Contact Form Submission from ' + formData.firstName + ' ' + formData.lastName
+        })
+    })
+    .then(function(response) {
+        if (response.ok) {
+            form.style.display = 'none';
+            successDiv.style.display = 'block';
+        } else {
+            return response.json().then(function(data) {
+                throw new Error(data.error || 'Something went wrong. Please try again.');
+            });
+        }
+    })
+    .catch(function(error) {
+        alert(error.message || 'Failed to send message. Please email us directly at elmiviceai@gmail.com');
+    })
+    .finally(function() {
         btn.textContent = 'Send Message';
         btn.disabled = false;
-    }, 1200);
+    });
 }
 
 function resetContactForm() {
