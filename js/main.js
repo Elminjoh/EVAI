@@ -42,18 +42,51 @@ function toggleTheme() {
 })();
 
 
-// ==================== Mobile Menu Toggle ====================
+// ==================== Mobile Side Drawer ====================
+(function() {
+    // Create overlay element dynamically
+    const overlay = document.createElement('div');
+    overlay.className = 'nav-overlay';
+    overlay.id = 'navOverlay';
+    document.body.appendChild(overlay);
+
+    overlay.addEventListener('click', closeMobileMenu);
+})();
+
 function toggleMobileMenu() {
     const navLinks = document.getElementById('navLinks');
-    navLinks.classList.toggle('open');
+    const navToggle = document.getElementById('navToggle');
+    const overlay = document.getElementById('navOverlay');
+    const isOpen = navLinks.classList.contains('open');
+
+    if (isOpen) {
+        closeMobileMenu();
+    } else {
+        navLinks.classList.add('open');
+        navToggle.classList.add('open');
+        overlay.classList.add('active');
+        document.body.style.overflow = 'hidden';
+    }
 }
 
-// Close mobile menu when clicking a link
+function closeMobileMenu() {
+    const navLinks = document.getElementById('navLinks');
+    const navToggle = document.getElementById('navToggle');
+    const overlay = document.getElementById('navOverlay');
+    navLinks.classList.remove('open');
+    navToggle.classList.remove('open');
+    overlay.classList.remove('active');
+    document.body.style.overflow = '';
+}
+
+// Close drawer when clicking a link
 document.querySelectorAll('.nav-links a').forEach(link => {
-    link.addEventListener('click', () => {
-        const navLinks = document.getElementById('navLinks');
-        navLinks.classList.remove('open');
-    });
+    link.addEventListener('click', closeMobileMenu);
+});
+
+// Close drawer on Escape key
+document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') closeMobileMenu();
 });
 
 

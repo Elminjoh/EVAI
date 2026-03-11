@@ -478,6 +478,7 @@ p {
     gap: 5px;
     cursor: pointer;
     padding: 4px;
+    z-index: 1002;
 }
 
 .nav-toggle span {
@@ -485,11 +486,37 @@ p {
     height: 2px;
     background: var(--white);
     border-radius: 2px;
-    transition: var(--transition);
+    transition: 0.3s ease;
 }
 
 .navbar.scrolled .nav-toggle span {
     background: var(--gray-800);
+}
+
+/* Hamburger to X animation */
+.nav-toggle.open span:nth-child(1) {
+    transform: translateY(7px) rotate(45deg);
+}
+.nav-toggle.open span:nth-child(2) {
+    opacity: 0;
+}
+.nav-toggle.open span:nth-child(3) {
+    transform: translateY(-7px) rotate(-45deg);
+}
+
+/* Side Drawer Overlay */
+.nav-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 999;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+.nav-overlay.active {
+    display: block;
+    opacity: 1;
 }
 
 /* ==================== Hero ==================== */
@@ -1432,25 +1459,30 @@ p {
     }
 
     .nav-links {
-        display: none;
-        position: absolute;
-        top: 100%;
-        left: 0;
+        position: fixed;
+        top: 0;
         right: 0;
+        width: 280px;
+        height: 100vh;
         background: var(--white);
         flex-direction: column;
-        padding: 1.5rem;
+        padding: 5rem 1.5rem 2rem;
         gap: 0;
-        box-shadow: var(--shadow-lg);
-        border-top: 1px solid var(--gray-200);
+        box-shadow: -4px 0 20px rgba(0, 0, 0, 0.15);
+        transform: translateX(100%);
+        transition: transform 0.3s ease;
+        z-index: 1001;
+        overflow-y: auto;
+        display: flex;
     }
 
-    .nav-links.open { display: flex; }
+    .nav-links.open { transform: translateX(0); }
 
     .nav-links a {
-        padding: 0.75rem 0;
+        padding: 0.85rem 0;
         color: var(--gray-700) !important;
         border-bottom: 1px solid var(--gray-100);
+        font-size: 1.05rem;
     }
 
     .nav-links a:last-child { border-bottom: none; }
