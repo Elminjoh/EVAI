@@ -2,8 +2,6 @@
 User-agent: *
 Allow: /
 Disallow: /admin/
-Disallow: *.css$
-Disallow: *.js$
 
 # Crawl delay for general bots (1 second)
 Crawl-delay: 1
