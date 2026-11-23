@@ -190,7 +190,7 @@ What can the chatbot do?
   • Capture enquiries and customer details for follow-up
   • Hand over to the business owner when a question needs a human
   • Take payments through Stripe integration
-  • Work across multiple channels — website, SMS, WhatsApp and email
+  • Send customers booking confirmations and reminders by email
   • Provide analytics on conversations, bookings and what customers are asking
 
 
@@ -239,7 +239,7 @@ How much does the AI chatbot cost?
 The AI chatbot costs £125 per month, plus a one-time setup fee of £250. The monthly price includes:
   • Unlimited conversations
   • AI chatbot with automated booking
-  • Multi-channel support (website, SMS, WhatsApp, email)
+  • Works on any website (WordPress, Shopify, Squarespace, Wix and custom sites)
   • Analytics and reporting
   • Stripe payment integration
   • Custom branding to match your website
