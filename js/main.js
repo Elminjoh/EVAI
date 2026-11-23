@@ -192,6 +192,16 @@ function handleContactSubmit(event) {
     });
 }
 
+// Pre-select the "I'm Interested In" option from a ?interest= link (e.g. contact.html?interest=chatbot)
+(function() {
+    const select = document.getElementById('interest');
+    if (!select) return;
+    const interest = new URLSearchParams(window.location.search).get('interest');
+    if (interest && Array.from(select.options).some(opt => opt.value === interest)) {
+        select.value = interest;
+    }
+})();
+
 function resetContactForm() {
     const form = document.getElementById('contactForm');
     const successDiv = document.getElementById('formSuccess');
@@ -246,7 +256,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 
 // ==================== Console Branding ====================
 console.log(
-    '%c ElmiViceAI %c AI-Powered Solutions for Modern Business ',
+    '%c ElmiViceAI %c Freelance Web Development ',
     'background: #0891b2; color: white; font-weight: bold; padding: 4px 8px; border-radius: 4px 0 0 4px;',
     'background: #155e75; color: white; padding: 4px 8px; border-radius: 0 4px 4px 0;'
 );
