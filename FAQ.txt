@@ -1,7 +1,23 @@
 ElmiViceAI — Frequently Asked Questions (FAQ)
 ================================================
 
-Common questions about ElmiViceAI, my web development services, and the AI chatbot add-on.
+Everything you need to know about ElmiViceAI: who runs it, what services are offered, how pricing works, and how to get started.
+
+
+================================================================================
+ABOUT ELMIVICEAI — QUICK FACTS
+================================================================================
+
+  • What it is:        A freelance web development business
+  • Who runs it:       Elmi, an independent full-stack web developer
+  • Based in:          United Kingdom (works remotely with clients in the UK and worldwide)
+  • Main service:      Web development — designing and building websites and web applications
+  • Add-on service:    AI chatbots for websites (answer questions and take bookings 24/7)
+  • Also available:    Freelance and contract web development for agencies and teams
+  • Pricing:           Websites: fixed-price quote per project (free discovery call first)
+                       AI chatbot: £125 per month + £250 one-time setup fee
+  • Contact:           elmiviceai@gmail.com or the contact form at elmiviceai.com/contact.html
+  • Response time:     Within 24 hours on business days
 
 
 ================================================================================
@@ -10,155 +26,240 @@ GENERAL QUESTIONS
 
 What is ElmiViceAI?
 -------------------
-ElmiViceAI is a freelance web development business run by Elmi, an independent web developer based in the United Kingdom. I design and build modern, responsive websites and web applications for small businesses. I also offer an AI chatbot as an add-on service that answers customer questions and takes bookings 24/7.
+ElmiViceAI is a freelance web development business based in the United Kingdom, run by independent web developer Elmi. ElmiViceAI's main service is building websites — designing and developing modern, fast, mobile-friendly websites and web applications for small and medium businesses. As an optional add-on, ElmiViceAI also builds AI chatbots that sit on a business's website, answer customer questions and take bookings around the clock.
 
 
-Who is behind ElmiViceAI?
--------------------------
-ElmiViceAI is run by me, Elmi, on my own. When you work with ElmiViceAI, you deal directly with the person designing and building your website — no account managers and no hand-offs.
+Does ElmiViceAI build websites?
+-------------------------------
+Yes. Building websites is ElmiViceAI's main service. ElmiViceAI designs and builds custom websites, landing pages, e-commerce sites, booking systems, web applications and website redesigns. Every project comes with a fixed-price quote agreed before any work starts. To get started, request a free quote through the contact form at elmiviceai.com/contact.html or email elmiviceai@gmail.com.
 
 
-Who do you work with?
----------------------
-Mainly small and medium businesses that need a professional website — salons, clinics, consultancies, trades, and other service-based businesses. I'm also available for freelance and contract work with agencies, startups and development teams.
+What services does ElmiViceAI offer?
+------------------------------------
+ElmiViceAI offers three services:
+
+  1. Web Development (main service) — custom websites, landing pages, e-commerce, booking systems, web applications, APIs, redesigns, SEO and ongoing maintenance.
+  2. AI Chatbot (add-on service) — an AI assistant for any website that answers customer questions and handles bookings 24/7, fully set up and installed by Elmi.
+  3. Freelance & Contract Work — Elmi is available to join agencies, startups and development teams on a freelance or contract basis.
 
 
-Where are you based?
+Who runs ElmiViceAI?
 --------------------
-I'm based in the United Kingdom and work remotely, so I can work with clients across the UK and internationally.
+ElmiViceAI is run by Elmi, an independent full-stack web developer based in the UK. Elmi runs the business alone and personally handles every project — from the first call through design, development and launch. Clients deal directly with the person building their website, with no account managers or hand-offs.
 
 
-How do I get in touch?
-----------------------
-Email elmiviceai@gmail.com or use the contact form on the website. I typically respond within 24 hours on business days.
+Why choose a freelancer instead of an agency?
+---------------------------------------------
+Working with ElmiViceAI means:
+  • Direct communication — you speak to Elmi, the person actually designing and building your site
+  • Fixed-price quotes — you know the full cost before work begins, with no hourly billing or surprise invoices
+  • No agency overheads — professional-quality work without paying for account managers and large offices
+  • Personal service — your project gets focused attention and quick responses
+  • Ongoing support — post-launch support is included with every website project
+
+
+Who does ElmiViceAI work with?
+------------------------------
+ElmiViceAI mainly works with small and medium businesses that need a professional online presence — for example salons and barbers, clinics, consultancies, trades, restaurants, fitness studios, retailers and other service-based businesses. ElmiViceAI also works with startups, and with agencies or development teams that need an extra developer on a freelance or contract basis.
+
+
+Where is ElmiViceAI based?
+--------------------------
+ElmiViceAI is based in the United Kingdom and works remotely. This means ElmiViceAI can work with clients anywhere in the UK and internationally. Calls and meetings are held online and scheduled flexibly to suit the client's time zone.
+
+
+How do I contact ElmiViceAI?
+----------------------------
+  • Contact form: elmiviceai.com/contact.html (choose the service you're interested in)
+  • Email: elmiviceai@gmail.com
+  • Response time: within 24 hours on business days
+
+For the fastest response, include your business type, what you need, and any deadline you have in mind.
 
 
 ================================================================================
-WEB DEVELOPMENT
+WEB DEVELOPMENT (MAIN SERVICE)
 ================================================================================
 
-What web development services do you offer?
--------------------------------------------
-  • Custom website design and development
-  • Responsive, mobile-first builds
-  • E-commerce and booking integrations (including Stripe payments)
-  • Web applications and REST & GraphQL API development
-  • SEO optimisation and performance tuning
-  • Website redesigns and rebuilds
-  • Ongoing maintenance and support
+What web development services does ElmiViceAI offer?
+----------------------------------------------------
+ElmiViceAI offers a full web development service:
+  • Custom website design — a professional design built around your brand and customers
+  • Responsive, mobile-first builds — sites that work perfectly on phones, tablets and desktops
+  • E-commerce and online payments — sell products or take deposits with secure Stripe payments
+  • Booking systems — let customers book appointments directly from your website
+  • Web applications and APIs — custom tools, dashboards and REST & GraphQL APIs
+  • Website redesigns and rebuilds — modernise an outdated or slow website
+  • SEO optimisation and performance tuning — fast pages with solid technical SEO foundations
+  • Ongoing maintenance and support — updates, content changes and fixes after launch
 
 
-What kinds of websites can you build?
--------------------------------------
-Business and brochure websites, landing pages, e-commerce sites, booking systems, custom web applications and dashboards, and redesigns of existing websites.
+What types of websites can ElmiViceAI build?
+--------------------------------------------
+  • Business websites — multi-page sites that explain who you are, what you offer and how to get in touch
+  • Landing pages — focused pages built to promote a product, service or campaign and generate leads
+  • E-commerce websites — online stores and payment pages using Stripe
+  • Booking websites — sites where customers can book appointments online
+  • Custom web applications — dashboards, portals and tools built around how your business works
+  • Redesigns — a modern, mobile-friendly refresh of an existing website
 
 
-How much does a website cost?
------------------------------
-Every project is quoted individually based on scope and complexity. After a free discovery call, I send a proposal with a fixed price — no hourly billing surprises.
+I already have a website. Can ElmiViceAI improve or redesign it?
+----------------------------------------------------------------
+Yes. ElmiViceAI offers website redesigns and rebuilds for businesses whose current website looks outdated, loads slowly, doesn't work well on mobile, or isn't bringing in enquiries. ElmiViceAI can also add new features to an existing site, such as online booking, payments or an AI chatbot.
+
+
+Will my website work on mobile phones?
+--------------------------------------
+Yes. Every website ElmiViceAI builds is responsive and mobile-first, meaning it is designed to look and work great on mobile phones first, then tablets and desktops. Most website visitors today are on their phones, so this is built into every project as standard.
+
+
+Will my website show up on Google?
+----------------------------------
+Every ElmiViceAI website is built with solid technical SEO foundations — fast loading, mobile-friendly, clean code, proper page titles and descriptions, and search-engine-friendly structure. These help search engines find and understand your site. SEO optimisation and performance tuning can also be included as part of a project. No one can guarantee a specific Google ranking, but a well-built site gives you the best possible starting point.
 
 
 How does the web development process work?
 ------------------------------------------
-1. Free discovery call — we discuss your business, goals and requirements (no obligation)
-2. Fixed-price proposal — I send a clear proposal with scope, timeline and price
-3. Design & build — I build your site and share regular progress updates
-4. Launch & support — your site goes live, I show you how to manage it, and I stay on hand for support
+ElmiViceAI follows a simple four-step process:
+
+  1. Free discovery call — Elmi talks with you about your business, goals and what your website needs to do. No cost and no obligation.
+  2. Fixed-price proposal — you receive a clear proposal covering the scope, timeline and one fixed price.
+  3. Design & build — Elmi designs and develops your website, sharing regular progress updates and taking your feedback on board.
+  4. Launch & support — your website goes live, Elmi shows you how to manage it, and support continues after launch.
 
 
-Will my website work on mobile?
--------------------------------
-Yes. Every website I build is responsive and mobile-first, so it looks and works great on phones, tablets and desktops.
-
-
-Do you offer ongoing website maintenance?
+How long does it take to build a website?
 -----------------------------------------
-Yes. Post-launch support is included with every project, and I can provide ongoing maintenance for updates, content changes and fixes.
+It depends on the size and complexity of the project. A simple website or landing page takes less time than an e-commerce site or custom web application. The timeline for your project is agreed up front and included in your fixed-price proposal, so you know when to expect your site before work begins.
+
+
+What do I need to provide?
+--------------------------
+During the discovery call, Elmi will explain exactly what's needed for your project. This usually includes things like your logo, the text you'd like on your site, photos of your business or products, and details of any existing website or domain. If you don't have everything ready, that's fine — it can be worked out together.
+
+
+What technology does ElmiViceAI use?
+------------------------------------
+ElmiViceAI uses modern, proven technology:
+  • HTML, CSS and JavaScript for fast, standards-based front-ends
+  • Python and FastAPI for back-end services and APIs
+  • PostgreSQL for reliable data storage
+  • Stripe for secure payments
+  • Modern cloud hosting with HTTPS
+  • Security-first practices, including secure authentication and GDPR-aware data handling
 
 
 Will I own my website?
 ----------------------
-Yes. Once the project is paid in full, you own the custom code and design assets created specifically for your project.
+Yes. Once a web development project is paid in full, you own the custom code and design assets created specifically for your project.
 
 
-Are you available for contract work?
-------------------------------------
-Yes. I'm open to freelance and contract roles with agencies, startups and development teams — short or long term — on front-end, back-end or full-stack web projects. Get in touch via the contact form and choose "Freelance / Contract Work".
+Does ElmiViceAI offer website maintenance?
+------------------------------------------
+Yes. Post-launch support is included with every website project. ElmiViceAI also offers ongoing maintenance for content updates, changes, fixes and improvements, so your website keeps running smoothly. Get in touch to discuss what level of support you need.
+
+
+================================================================================
+FREELANCE & CONTRACT WORK
+================================================================================
+
+Is Elmi available for contract or freelance work?
+-------------------------------------------------
+Yes. Elmi is open to freelance and contract roles with agencies, startups and development teams — short term or long term. Elmi can work on front-end, back-end or full-stack web projects as part of an existing team.
+
+
+How do I discuss a contract role?
+---------------------------------
+Use the contact form at elmiviceai.com/contact.html and choose "Freelance / Contract Work", or email elmiviceai@gmail.com with details of the role, the technologies involved, the expected duration and the rate or budget.
 
 
 ================================================================================
 AI CHATBOT (ADD-ON SERVICE)
 ================================================================================
 
-What does the AI chatbot do?
-----------------------------
-The AI chatbot sits on your website and handles customer conversations automatically. It can:
-  • Answer customer questions 24/7
-  • Handle bookings, cancellations and rescheduling
-  • Process payments via Stripe integration
-  • Escalate to you when a question needs a human
-  • Work across multiple channels (website, SMS, WhatsApp, email)
-
-
-Do I need a website built by you to use the chatbot?
-----------------------------------------------------
-No. The chatbot works on almost any website — WordPress, Shopify, Squarespace, Wix, custom-built sites and more. If I'm building your website, I can build the chatbot in from day one.
-
-
-How do I get the chatbot set up?
---------------------------------
-I do it for you. We have a quick chat about your business, I configure and brand the chatbot, install it on your website and test it before it goes live. There's nothing technical for you to do.
-
-
-Can I customise the chatbot's appearance?
------------------------------------------
-Yes. The chat widget is branded with your colours and logo to match your website.
-
-
-Is there analytics for the chatbot?
------------------------------------
-Yes. You can see conversations, booking metrics and customer insights so you know how the chatbot is performing.
-
-
-Can I try the chatbot before buying?
-------------------------------------
-Yes — the chat bubble on the ElmiViceAI website is a live demo of the same chatbot I build for clients. You can also get in touch to arrange a personalised demo for your business.
-
-
-================================================================================
-PRICING & BILLING
-================================================================================
-
-How much does web development cost?
------------------------------------
-Web development is quoted per project, with a fixed price agreed before any work starts.
-
-
-How much does the chatbot cost?
+What is the ElmiViceAI chatbot?
 -------------------------------
-The AI chatbot is £125 per month, plus a one-time setup fee of £250. The monthly price includes:
+The ElmiViceAI chatbot is an AI assistant that sits on a business's website and chats with customers automatically, 24 hours a day. It is offered as an add-on to ElmiViceAI's main web development service, and it can be added to almost any website — whether or not ElmiViceAI built the site.
+
+
+What can the chatbot do?
+------------------------
+  • Answer customer questions instantly, in natural, human-like language
+  • Take bookings, and handle cancellations and rescheduling, with real-time availability
+  • Capture enquiries and customer details for follow-up
+  • Hand over to the business owner when a question needs a human
+  • Take payments through Stripe integration
+  • Work across multiple channels — website, SMS, WhatsApp and email
+  • Provide analytics on conversations, bookings and what customers are asking
+
+
+Can I see the chatbot in action?
+--------------------------------
+Yes. The chat assistant on the ElmiViceAI website is a live demo of the same chatbot ElmiViceAI builds for clients. You can also request a personalised demo for your business through the contact form.
+
+
+Do I need a website built by ElmiViceAI to get a chatbot?
+---------------------------------------------------------
+No. The chatbot works on almost any website, including WordPress, Shopify, Squarespace, Wix and custom-built sites. If ElmiViceAI is building your new website, the chatbot can be built in from day one so everything works together.
+
+
+How is the chatbot set up?
+--------------------------
+ElmiViceAI does everything for you:
+  1. A quick chat about your business — services, opening hours, booking rules and common customer questions
+  2. Elmi builds and trains your chatbot with your business information and brands it to match your website
+  3. Elmi installs it on your website and tests it before it goes live
+  4. Ongoing support — updates whenever your services, prices or hours change
+
+There's nothing technical for you to do.
+
+
+Can the chatbot match my branding?
+----------------------------------
+Yes. The chat widget is customised with your colours and logo so it feels like a natural part of your website.
+
+
+================================================================================
+PRICING & PAYMENTS
+================================================================================
+
+How much does a website cost?
+-----------------------------
+Every website is quoted individually, because every project is different. The price depends on things like the number of pages, the features you need (such as e-commerce, bookings or custom functionality) and any integrations. After a free discovery call, ElmiViceAI sends you a proposal with one fixed price — there's no hourly billing and no surprise invoices. You can share your budget on the contact form to help shape the proposal.
+
+
+Is the quote free?
+------------------
+Yes. The discovery call and the proposal are completely free, with no obligation to go ahead.
+
+
+How much does the AI chatbot cost?
+----------------------------------
+The AI chatbot costs £125 per month, plus a one-time setup fee of £250. The monthly price includes:
   • Unlimited conversations
-  • Automated booking
-  • Multi-channel support
+  • AI chatbot with automated booking
+  • Multi-channel support (website, SMS, WhatsApp, email)
   • Analytics and reporting
   • Stripe payment integration
-  • Custom branding
+  • Custom branding to match your website
+  • Custom webhook integrations and email notifications
   • Priority support
 
 
-What does the chatbot setup fee cover?
---------------------------------------
-The one-time £250 setup fee covers building and configuring your chatbot — training it on your business, setting up booking rules, branding, integrations and installing it on your website.
+What does the £250 chatbot setup fee cover?
+-------------------------------------------
+The one-time £250 setup fee covers building your chatbot: training it on your business information, setting up booking rules, branding it to match your website, connecting integrations, and installing and testing it on your site. After setup, you only pay the £125 monthly subscription.
 
 
 Can I cancel the chatbot subscription?
 --------------------------------------
-Yes. There are no long-term contracts — you can cancel at any time with no penalties. Cancellation takes effect at the end of your current billing cycle.
+Yes. There are no long-term contracts. You can cancel the chatbot subscription at any time with no penalties, and cancellation takes effect at the end of your current billing cycle.
 
 
-How does billing work?
-----------------------
-Chatbot subscriptions are billed monthly in advance. Web development payment terms are set out in your project proposal. Payments are processed securely via Stripe.
+How do payments work?
+---------------------
+Website projects are paid according to the payment terms set out in your fixed-price proposal. Chatbot subscriptions are billed monthly in advance. All payments are processed securely through Stripe.
 
 
 ================================================================================
@@ -167,31 +268,39 @@ SUPPORT
 
 What support is included?
 -------------------------
-Every web development project includes post-launch support. Chatbot subscribers receive priority support covering setup, troubleshooting, updates and general questions.
+Every website project includes post-launch support. AI chatbot subscribers receive priority support, covering setup, troubleshooting, updates and general questions. Ongoing website maintenance is also available.
 
 
-How quickly do you respond?
----------------------------
-I aim to respond to all enquiries within 24 hours on business days.
+How quickly does ElmiViceAI respond?
+------------------------------------
+ElmiViceAI aims to respond to all enquiries within 24 hours on business days.
 
 
 Is my data secure?
 ------------------
-Yes. I build with security in mind — HTTPS everywhere, secure authentication and GDPR-aware data handling. See the Privacy Policy for full details.
+Yes. ElmiViceAI builds with security in mind from the start — HTTPS everywhere, secure authentication, careful data handling and GDPR-aware practices. Full details are in the Privacy Policy at elmiviceai.com/privacy.html.
 
 
 ================================================================================
 GETTING STARTED
 ================================================================================
 
-How do I request a website quote?
----------------------------------
-Use the contact form on the website or email elmiviceai@gmail.com with a few details about your business and project. I'll arrange a free discovery call and then send a fixed-price proposal.
+How do I get a quote for a website?
+-----------------------------------
+  1. Go to elmiviceai.com/contact.html (or email elmiviceai@gmail.com)
+  2. Choose "Web Development" and tell ElmiViceAI a little about your business and what you need
+  3. Elmi will get back to you within 24 hours on business days to arrange a free discovery call
+  4. You'll then receive a fixed-price proposal — with no obligation to go ahead
 
 
 How do I get a chatbot for my website?
 --------------------------------------
-Use the contact form and choose "AI Chatbot Add-On", or email elmiviceai@gmail.com. I'll take care of the rest.
+Use the contact form at elmiviceai.com/contact.html and choose "AI Chatbot Add-On", or email elmiviceai@gmail.com. ElmiViceAI will take care of everything from there.
+
+
+I want a new website and a chatbot. Can I get both?
+---------------------------------------------------
+Yes. Choose "Website + AI Chatbot" on the contact form. ElmiViceAI will quote the website as a fixed-price project and build the chatbot in from day one, so both work together seamlessly.
 
 
 ================================================================================
@@ -199,8 +308,9 @@ STILL HAVE QUESTIONS?
 ================================================================================
 
   Email:          elmiviceai@gmail.com
+  Contact form:   elmiviceai.com/contact.html
   Website:        elmiviceai.com
-  Response Time:  Within 24 hours on business days
+  Response time:  Within 24 hours on business days
 
 
 ================================================================================
